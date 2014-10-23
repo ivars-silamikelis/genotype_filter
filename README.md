@@ -13,5 +13,5 @@ etc
 See sample_genotypes.txt for example.
 
 Usage example:
-perl genotype_filter --file sample.vcf  --genotypes sample_genotypes.txt > sample.filtered.vcf
+perl genotype_filter.pl --file sample.vcf  --genotypes sample_genotypes.txt > sample.filtered.vcf
 
